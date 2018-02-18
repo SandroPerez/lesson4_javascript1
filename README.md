@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Februry 13, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sandro Perez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Lesson 4 allowed us to see and understand the interconnected relationship between html and javascript. It gave the class an understanding of how to link class id's into a javascript program, as well as more experience in javascript as a language. The main task was to create an expense calculator that used the user's input on expenses to calculate the users total living expenses.  )
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://sandroperez.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (A more grounded understanding of javascript as a language.)
+2. (The ways javascript can be used in an html code, and how to it can be incorporated.)
+3. (When using connected programs like html and javascript, it is important to be consistent with classes, id, and object names for the program to run properly. )
 
 
 
